@@ -171,5 +171,45 @@ body {
 
 html {
   margin-right: calc(-1 * (100vw - 100%));
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
+}
+
+.video-section {
+  text-align: center;
+}
+
+.video-div {
+  display: inline-block;
+  width: 560px;
+  height: 315px;
+  margin: 10px;
+}
+
+.video {
+  border-radius: 1%;
+}
+
+.video-list-div {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  width: 560px;
+  height: 315px;
+  margin: 10px;
+}
+
+.video-list a:hover {
+  color: orangered;
+  width: auto;
+}
+
+.video-list__text {
+  width: auto;
+  color: black;
+  text-decoration: none;
+  letter-spacing: 0px;
+  /* line-height: 50px; */
+  font-weight: 600;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
 }
