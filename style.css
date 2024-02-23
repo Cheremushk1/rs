@@ -213,3 +213,25 @@ html {
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.p-mainroster {
+  width: auto;
+  color: black;
+  text-decoration: none;
+  letter-spacing: 0px;
+  /* line-height: 50px; */
+  font-weight: 600;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p-notmainroster {
+  width: auto;
+  color: black;
+  text-decoration: none;
+  letter-spacing: 0px;
+  /* line-height: 50px; */
+  font-weight: 600;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
